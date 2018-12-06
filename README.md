@@ -5,7 +5,8 @@ Fall 2018 Incubee Portfolios
 Dan DuLeone
 
 ## Team Members
--AH
+
+-Andrew Hojnowski
 - Anh Lu
 -Jessica Clay
 -DC
