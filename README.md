@@ -7,5 +7,5 @@ Dan DuLeone
 ## Team Members
 -AH
 - Anh Lu
--JC
+-Jessica Clay
 -DC
