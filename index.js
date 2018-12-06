@@ -5,5 +5,6 @@ const team = [
 ]
 
 team.forEach((incubee) => {
-  incubee();
+  const {reportIn, funFact} = incubee;
+  reportIn(funFact());
 });
