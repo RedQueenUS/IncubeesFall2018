@@ -6,6 +6,6 @@ Dan DuLeone
 
 ## Team Members
 -AH
--AL
+- Anh Lu
 -Jessica Clay
 -DC
